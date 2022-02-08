@@ -4,7 +4,7 @@
 
 ## 🔗 URL
 
-<a href="udud0510.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=white"/></a>
+<a href="https://udud0510.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%9D%B4-029a93209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:susan7744850@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
